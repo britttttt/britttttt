@@ -2,8 +2,6 @@
 
 
 
-<h1 align="center">Making, designing, and developing | NSS Grad (co-hort 76) <img src="https://ik.imagekit.io/b0xq0alh4/touch_grass_PC_no_screen.gif?updatedAt=1756347974207" width=30px height=30px></h1>
-
 <h4 align="left">🛠Tech Stack</h4>
 <p>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
