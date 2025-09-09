@@ -1,6 +1,4 @@
-![Git readme1](https://github.com/user-attachments/assets/b8281853-a443-4d47-b851-8ef538874cd0)
-
-
+![Git readme](https://github.com/user-attachments/assets/3f986737-36dc-403e-ae2c-06d17c6507cd)
 
 
 
