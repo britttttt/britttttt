@@ -1,6 +1,14 @@
-![Git readme](https://github.com/user-attachments/assets/3f986737-36dc-403e-ae2c-06d17c6507cd)
 
+<div>
+<h3>Hey, I'm Brit!</h3>
+  <img src="https://64.media.tumblr.com/b0577c5b208ec8ec228f71bcd912fdf2/ddbedc38c291e48f-eb/s1280x1920/b2254a1e225f31d6ae25ce25ea2603bcda25cbae.gif" style="float: left; margin: 0 20px 20px 0;" width="20%">  
+</div>
 
+<ul>
+  <li>Python, Django, JS, React Developer</li>
+  <li>NSS Grad (Cohort-76)</li>
+  <li>Design/Communication background</li>
+</ul>
 
 <h4 align="left">🛠Tech Stack</h4>
 <p>
