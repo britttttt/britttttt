@@ -1,7 +1,7 @@
 
-<div style="align-items:center;">
-<h2>Hey there, I'm Brit <img src="https://github.com/user-attachments/assets/21aeef2b-3a07-4804-b197-1a8340b80bea" style="float: left; margin: 50px 50px 20px 20px;" width="50px">  </h2>
-</div>
+| <h2>Hey there, I'm Brit</h2> | <img src="https://github.com/user-attachments/assets/21aeef2b-3a07-4804-b197-1a8340b80bea" width="50px"> |
+|:---:|:---|
+
 
 <ul>
   <li>Python, Django, JS, React Developer</li>
