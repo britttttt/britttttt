@@ -1,7 +1,6 @@
 
-<div>
-<h2>Hey there, I'm Brit 👋</h2>
-  <img src="https://64.media.tumblr.com/b0577c5b208ec8ec228f71bcd912fdf2/ddbedc38c291e48f-eb/s1280x1920/b2254a1e225f31d6ae25ce25ea2603bcda25cbae.gif" style="float: left; margin: 50px 50px 20px 20px;" width="20%">  
+<div style="align-items:center;">
+<h2>Hey there, I'm Brit <img src="https://github.com/user-attachments/assets/21aeef2b-3a07-4804-b197-1a8340b80bea" style="float: left; margin: 50px 50px 20px 20px;" width="50px">  </h2>
 </div>
 
 <ul>
