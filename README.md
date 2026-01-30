@@ -1,4 +1,5 @@
-
+<div width="20%">
+  
 | <h2>Hey there, I'm Brit</h2> | <img src="https://github.com/user-attachments/assets/21aeef2b-3a07-4804-b197-1a8340b80bea" width="50px"> |
 |:---:|:---|
 
@@ -25,4 +26,4 @@
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 </p>
-
+</div>
